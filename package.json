@@ -1,0 +1,18 @@
+{
+  "name": "snabbdom-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitee.com/HelenYin/snabbdom-demo.git",
+  "author": "Helen <yinhelen.hlj@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "snabbdom": "^3.5.0"
+  }
+}
